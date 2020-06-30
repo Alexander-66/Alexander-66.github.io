@@ -10,12 +10,13 @@ html{
 body{
     background-color: #6EA3B5;
     
-    min-width: 1608px;
+    min-width: 1408px;
 }
 
 .cont{
-    width: 1608px;
+    width: 1408px;
     margin: 0px auto;
+    
 }
 
 .box{
