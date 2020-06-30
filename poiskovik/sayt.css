@@ -1,0 +1,98 @@
+*{
+    padding:5px ;
+    margin: 5px;
+}
+
+html{
+    overflow: hidden;
+}
+
+body{
+    background-color: #6EA3B5;
+    
+    min-width: 1608px;
+}
+
+.cont{
+    width: 1608px;
+    margin: 0px auto;
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    display: grid;
+    grid-auto-rows: 200px;
+    grid-gap: 15px;
+   
+    
+}
+
+
+
+.box2{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-auto-rows: 200px;
+    grid-gap: 15px;
+}
+
+
+.box3{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    grid-auto-rows: 200px;
+    grid-gap: 15px;
+}
+
+.razm{
+    display: grid;
+    grid-gap: 15px;
+    text-align: center;
+    line-height: 190px;
+    font-size: 25px;
+    
+    
+}
+
+.silka{
+    color: black;
+}
+
+.MenPosh{
+  
+    background-color:#4B60FF ;
+  
+}
+
+.WomPosh{
+
+    background-color:#FF55BB ;
+   
+}
+
+.KidPosh{
+  
+    background-color:#FFEF0F ;
+  
+}
+
+.Rem{
+   
+    background-color:#2BFF00;
+   
+}
+
+.IzmenFasonAndRem{
+    
+    background-color:#FF3021 ;
+    
+}
+
+.Instruk1{
+    background-color: green ;
+}
+
+.Instruk{
+    background-color:#6EA3B5;
+}

@@ -1,0 +1,82 @@
+*{
+    padding:5px ;
+    margin: 5px;
+}
+
+
+body{
+    background-color: #6EA3B5;
+    
+}
+
+html{
+    overflow: hidden;
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    grid-auto-rows: 200px;
+    grid-gap: 15px;
+   
+    
+}
+
+.box2{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    grid-auto-rows: 200px;
+    grid-gap: 15px;
+}
+
+.box3{
+    display: grid;
+    grid-template-columns: 100% ;
+    grid-auto-rows: 200px;
+    grid-gap: 15px; 
+}
+
+.razm{
+    display: grid;
+    grid-gap: 15px;
+    text-align: center;
+    line-height: 120px;
+    font-size: 25px;
+    
+    
+}
+
+.silka{
+    color: black;
+}
+
+.ZamenMol{
+  
+    background-color:#1EFF00 ;
+  
+}
+
+.IzmenDlinIzdel{
+
+    background-color:#16BF00 ;
+   
+}
+
+.IzmenNizRukav{
+  
+    background-color:#129E00 ;
+  
+}
+
+.UkorotRukavPoOkat{
+   
+    background-color:#108C00;
+   
+}
+
+.vozvrat{
+    background-color:#FFD400;
+}
+
+
+
