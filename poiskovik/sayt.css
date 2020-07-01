@@ -3,9 +3,7 @@
     margin: 5px;
 }
 
-html{
-    
-}
+
 
 body{
     background-color: #6EA3B5;
@@ -44,9 +42,10 @@ body{
 
 .box3{
     display: grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns:100%;
     grid-auto-rows: 200px;
     grid-gap: 15px;
+    
 }
 
 .razm{
