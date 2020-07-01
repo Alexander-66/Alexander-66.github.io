@@ -1,6 +1,4 @@
-.box{
-   
-}
+
 
 .bord{
     border: none;
@@ -18,4 +16,10 @@
     color: #4B60FF;
 }
 
+.container{
+    display: grid;
+    max-width: 1408px;
+    margin: 0px auto;
+    
+}
 

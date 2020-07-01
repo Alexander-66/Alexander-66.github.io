@@ -3,7 +3,9 @@
     margin: 5px;
 }
 
-
+html{
+    overflow: hidden;
+}
 
 body{
     background-color: #6EA3B5;

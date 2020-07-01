@@ -46,13 +46,18 @@ body{
 
 .box5{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-columns: 100% ;
     grid-auto-rows: 110px;
     grid-gap: 10px;
 } 
 
 
-
+.cont{
+    max-width: 1408px;
+    margin: 0px auto;
+    
+    
+}
 
 .razm{
     display: grid;
