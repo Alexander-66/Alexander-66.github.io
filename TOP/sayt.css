@@ -1,0 +1,28 @@
+body{
+    background-image: url(img/1.jpg);
+}
+
+.wraper{
+    margin-left: 15%;
+}
+
+.bag{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2px;
+    
+}
+
+.e{
+    
+    text-align: center;
+    color: #ffffff;
+    grid-column: 1/5;
+}
+
+.q{
+    
+    grid-column:1/4 ;
+}
+
+
