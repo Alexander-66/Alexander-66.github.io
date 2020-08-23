@@ -15,6 +15,7 @@ body{
 
 .heder{
     display: grid;
+    margin-bottom: 3.3%;
     grid-template-columns: 30% 70%  ;
 }
 
