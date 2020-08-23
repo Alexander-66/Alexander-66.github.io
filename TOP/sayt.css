@@ -1,8 +1,49 @@
-body{
-    background-image: url(img/1.jpg);
+
+
+
+
+*{
+    padding: 0;
+    margin:0 ;
 }
 
+
+body{
+    background-image: url(img/1.jpg);
+    
+}
+
+.heder{
+    display: grid;
+    grid-template-columns: 30% 70%  ;
+}
+
+.left{
+
+    background-color: #252122;
+}
+
+.write{
+   
+    background-color: #252122;
+}
+
+#t{
+    margin-top: 4%;
+    margin-left: 26%;
+    color:#EECDE0;
+    
+}
+
+
+
+
+
+
+
+
 .wraper{
+    
     margin-left: 15%;
 }
 

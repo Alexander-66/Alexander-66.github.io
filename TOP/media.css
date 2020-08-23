@@ -1,0 +1,47 @@
+@media (max-width: 1408px){
+    .cont{
+        max-width: 970px;
+
+    }
+
+    #t{
+        margin-top: 3%;
+        margin-left: 20%;
+        color:#EECDE0;
+        
+    }
+
+   
+}
+
+@media (max-width: 971px){
+    .cont{
+        max-width: 750px;
+
+    }
+
+    #t{
+        margin-top: 2%;
+        margin-left: 15%;
+        color:#EECDE0;
+        
+    }
+
+   
+}
+
+@media (max-width:751px){
+    .cont{
+        max-width: none;
+
+    }
+
+    #t{
+        margin-top: 2%;
+        margin-left: 7%;
+        color:#EECDE0;
+        
+    }
+
+   
+}
